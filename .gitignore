@@ -1,0 +1,340 @@
+[Dd
+[Dd
+##
+[Rr
+
+[Rr
+х64/
+x86/
+[Aa
+[Aa
+блд/
+
+[Bb
+[Оо
+
+# Результаты построения
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]элеаза/
+[Rr]eleases/
+х64/
+x86/
+[Aa][Rr][Мм]/
+[Aa][Rr][Мм]64/
+блд/
+[Bb]в/
+[Оо]би Джей/
+[Лл]ог/
+
+# Каталог кэша/опций Visual Studio 2015/2017
+.против/
+# Раскомментируйте, если у вас есть задачи, которые создают статические файлы проекта в wwwroot
+#wwwroot/
+
+# Автоматически сгенерированные файлы Visual Studio 2017
+Сгенерированные\ Файлы/
+
+# Результаты теста MSTest
+[Tt]есть[Rr]результат*/
+[Bb]uild[Ll]og.*
+
+# НУНИТ
+*.VisualState.xml
+TestResult.xml
+
+# Результаты сборки проекта ATL
+[Dd]ebugPS/
+[Rr]элеазеПС/
+dlldata.c
+
+# Контрольные результаты
+Бенчмаркдотнет.Артефакты/
+
+# .NET Core
+project.lock.json
+проект.фрагмент.блокировка.json
+артефакты/
+
+# СтильКоп
+StyleCopReport.xml
+
+# Файлы, созданные Visual Studio
+*_i.c
+*_p.c
+*_ч.ч
+*.ilk
+*.мета
+*.возражение
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+# Chutzpah Test files
+_Chutzpah*
+
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Файлы трассировки Visual Studio
+*.e2e
+
+# Локальное рабочее пространство TFS 2012
+$tf/
+
+# Инструментарий Автоматизации Руководства
+*.gpState
+
+# ReSharper-это надстройка для кодирования .NET
+_решарпер*/
+*.[Rr]e[Ss]харпер
+*.Настройки точек.пользователь
+
+# JustCode-это надстройка для кодирования .NET
+.Просто введите
+
+# TeamCity-это надстройка для сборки
+_темсити*
+
+# dotCover-это инструмент покрытия кода
+*.точЕчная обложка
+
+# AxoCover-это инструмент покрытия кода
+.axoCover/*
+!.axoCover/настройки.json
+
+# Результаты покрытия кода Visual Studio
+*.охват
+*.coveragexml
+
+# NCrunch
+_NCrunch_*
+.*хруст*.local.xml
+nCrunchTemp_*
+
+# Могучий выбор
+*.мм.*
+AutoTest.Net/
+
+# Веб-верстак (sass)
+.sass-кэш/
+
+# Папка вывода Installshield
+[Ee]xpress/
+
+# DocProject-это надстройка для генератора документации
+DocProject/buildhelp/
+DocProject/Help/*.HxT
+DocProject/Help/*.HxC
+DocProject/Help/*.hhc
+DocProject/Help/*.hhk
+DocProject/Help/*.hhp
+DocProject/Help/Html2
+DocProject/Help/html
+
+# Click-Once directory
+publish/
+
+# Publish Web Output
+*.[Pp]ublish.xml
+*.azurePubxml
+# Note: Comment the next line if you want to checkin your web deploy settings,
+# but database connection strings (with potential passwords) will be unencrypted
+*.pubxml
+*.publishproj
+
+# Microsoft Azure Web App publish settings. Comment the next line if you want to
+# checkin your Azure Web App publish settings, but sensitive information contained
+# in these scripts will be unencrypted
+PublishScripts/
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/[Pp]ackages/*
+# except build/, which is used as an MSBuild target.
+!**/[Pp]ackages/сборка/
+# Раскомментируйте, если необходимо, однако, как правило, он будет восстановлен при необходимости
+#!**/[Pp]учетные записи/репозитории.конфигурация
+# Файлы проекта NuGet v3.json создают больше игнорируемых файлов
+*.nuget.реквизит
+*.nuget.цели
+
+# Вывод сборки Microsoft Azure
+csx/
+*.сборка.csdef
+
+# Эмулятор Microsoft Azure
+ecf/
+rcf/
+
+# Каталоги и файлы пакетов приложений магазина Windows
+AppPackages/
+Комплектные статьи/
+Пакет.StoreAssociation.xml
+_pkginfo.txt
+*.appx
+
+# Файлы кэша Visual Studio
+# файлы, заканчивающиеся на .cache, можно игнорировать
+*.[Cc]боль
+# но следите за каталогами, заканчивающимися на .cache
+!?*.[Cc]боль/
+
+# Другие
+Клиентская база/
+~$*
+*~
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pfx
+*.публикации
+орлеан.codegen.cs
+
+# Включение файлов строгих имен может представлять угрозу безопасности
+# (https://github.com/github/gitignore/pull/2483#issue-259490424)
+#*.снк
+
+# Поскольку существует несколько рабочих процессов, раскомментируйте следующую строку, чтобы игнорировать bower_компоненты
+# (https://github.com/github/gitignore/pull/1529#issuecomment-104372622)
+#bower_компоненты/
+
+# Проекты RIA/Silverlight
+Сгенерированный код/
+
+# Backup & report files from converting an old project file
+# to a newer Visual Studio version. Backup files are not needed,
+# because we have git ;-)
+_UpgradeReport_Files/
+Backup*/
+UpgradeLog*.XML
+UpgradeLog*.htm
+ServiceFabricBackup/
+*.rptproj.bak
+
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# Business Intelligence projects
+*.rdl.data
+*.bim.layout
+*.bim_*.settings
+*.rptproj.rsuser
+*- Backup*.rdl
+
+# Microsoft Fakes
+FakesAssemblies/
+
+# GhostDoc plugin setting file
+*.GhostDoc.xml
+
+# Node.js Tools for Visual Studio
+.ntvs_analysis.dat
+node_модули/
+
+# Журнал сборки Visual Studio 6
+*.plg
+
+# Файл параметров рабочей области Visual Studio 6
+*.выберите
+
+# Автоматически созданный файл рабочей области Visual Studio 6 (содержит, какие файлы были открыты и т.д.)
+*.vbw
+
+# Вывод сборки LightSwitch в Visual Studio
+**/*.HTMLClient/Созданные статьи
+**/*.DesktopClient/Созданные объекты
+**/*.DesktopClient/ModelManifest.xml
+**/*.Сервер/Созданные объекты
+**/*.Server/ModelManifest.xml
+_pvt_экстензии
+
+# Менеджер зависимостей от пакетов
+.paket/paket.exe
+пакеты-файлы/
+
+# ПОДДЕЛКА - F# Сделать
+.подделка/
+
+# Гонщик на реактивных мозгах
+.идея/
+*.sln.iml
+
+# Личные настройки CodeRush
+.cr/личные
+
+# Инструменты Python для Visual Studio (PTVS)
+__тайник__/
+*.pyc
+
+# Торт - Раскомментируйте, если вы его используете
+# инструменты/**
+# !инструменты/пакеты.конфигурация
+
+# Студия вкладок
+*.tss
+
+# Файл конфигурации JustMock Телерика
+*.jmconfig
+
+# Вывод сборки BizTalk
+*.btp.cs
+*.btm.cs
+*.odx.cs
+*.xsd.cs
+
+# OpenCover UI analysis results
+OpenCover/
+
+Встроенная панель действий с файлами
+Копирование строк
+
+  Копирование строк  
+Копировать постоянную ссылку
+
+  Копировать постоянную ссылку  
+Посмотреть гит виноват
+
+# MFractors (Xamarin productivity tool) working folder
+Перейти к строке
+
+Перейти к строке…
+Перейти к строке
+
+    Вперед   
+healthchecksdb
